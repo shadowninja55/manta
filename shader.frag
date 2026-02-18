@@ -62,7 +62,7 @@ Sphere scene[4] = Sphere[](
     vec3(-1, 0, -1), 0.5,
     Material(METAL, vec3(0.8), 0.3)
   ),
-  // u
+  // right
   Sphere(
     vec3(1, 0, -1), 0.5,
     Material(METAL, vec3(0.8, 0.6, 0.2), 1.0)
